@@ -3,7 +3,7 @@
 #include <netdb.h>
 #include <string.h>
 
-#include <lua.h>
+#include <lua5.4/lua.h>
 #include <lauxlib.h>
 #include <maxminddb.h>
 
